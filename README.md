@@ -92,9 +92,12 @@ Power BI: For visualization and dashboard creation.
 -Online sales lag significantly and represent a major opportunity for growth.
 
 ## RECOMMENDATION 
-1️⃣Address Salary Discrepancies: Given the discrepancies in salaries for positions like Production, Research Scientists,and Marketing Managers, it is crucial to perform a salary audit to ensure fairness and equity across similar roles. This could help improve employee morale and retention.
+1️⃣ Improve Margin Management for Top Suppliers: Engage with Two Brothers Mill to explore cost optimization or pricing strategies to improve profitability.
 
-2️⃣Tailored Well-Being Programs: Consider launching well-being programs aimed at employees who might be experiencing higher leave rates, especially in physically demanding or high-stress roles.
+2️⃣ Scale High-Margin Suppliers: Increase focus on suppliers like Kappas Drinks for their better return on sales.
 
-3️⃣Focus on High-Leave Roles: Pay special attention to the departments with high leave counts by engaging with employees to understand the root causes. This could involve conducting employee surveys or interviews to gauge satisfaction, addressing stress factors, and improving work-life balance.
+3️⃣Channel Strategy Optimization: Strengthen the Online channel, especially for high-performing categories like Drinks.
 
+4️⃣ Focus on High-Performing Months: Replicate successful strategies from November to maintain performance consistency.
+
+5️⃣Team-Level Strategy: Analyze and share best practices from high-performing Retail teams across other segments.
