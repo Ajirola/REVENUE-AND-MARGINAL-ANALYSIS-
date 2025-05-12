@@ -6,6 +6,8 @@
  [Description]() 
  
  [Objective]() 
+  
+ [Key areas analysed]() 
  
  [Tools]()
  
@@ -19,7 +21,7 @@
 This Power BI dashboard provides a strategic overview of operational revenue, gross margin, and profitability trends across suppliers and sales teams. Designed to support performance reviews and sales optimization efforts, it enables quick identification of inefficiencies, profit gaps, and growth opportunities across sales channels and product categories
 
 ## DESCRIPTION
-Hhigh revenue does not always equal high profitability. This dashboard helps stakeholders move beyond top-line figures by delivering a layered analysis of gross margin and margin percentages across multiple dimensions—supplier, team, category, and channel.
+High revenue does not always equal high profitability. This dashboard helps stakeholders move beyond top-line figures by delivering a layered analysis of gross margin and margin percentages across multiple dimensions—supplier, team, category, and channel.
 
 Key performance metrics are visualized with clarity, helping sales managers, financial analysts, and procurement teams:
 
@@ -34,6 +36,16 @@ Key performance metrics are visualized with clarity, helping sales managers, fin
 ## OBJECTIVE 
 To monitor and analyze the revenue performance, gross margin, and gross margin percentage across different suppliers and sales teams, enabling data-driven decisions that enhance profitability and sales efficiency.
 
+## KEY AREAS ANALYZED
+1️⃣ Operational Revenue – Total revenue performance with monthly trends
+
+2️⃣ Gross Margin – Monthly and cumulative gross profit to assess cost efficiency
+
+3️⃣ Gross Margin % – Profitability ratio trend over the year
+
+4️⃣ Supplier Performance – Comparison of revenue and margin contributions by suppliers
+
+5️⃣ Team & Category Revenue – Revenue contribution by sales team across Retail, Wholesale, and Online channels, broken down by product categories (Food, Drinks, Sweets)
 
 ## TOOLS USED:
 
@@ -46,22 +58,38 @@ Power BI: For visualization and dashboard creation.
 
 
 ## INSIGHTS GAINED
+1️⃣ Overall Performance
 
- 1️⃣ Total Employee Count: 161 employees, forming the basis of analysis.
+-Total Operational Revenue: $9.68M
 
- 2️⃣ Department Headcount: The Packaging Association and Production Operation have the highest headcount, while Marketing roles are less populated.
+-Gross Margin: $4.01M
 
-3️⃣ Salary Discrepancies: Notable discrepancies exist in salaries for roles like Product Manager and Research Scientist.
+-Gross Margin %: 41.5%
 
-4️⃣ Gender Distribution: The workforce consists of 88 females and 73 males, indicating a balanced representation.
+2️⃣ Top Performing Month
 
-5️⃣ Education vs. Salary: Employees with Master’s degrees earn higher salaries compared to others.
+-November recorded the best performance:
 
-6️⃣ Top Earners: Product Managers, Research Scientists, and Marketing Managers are the highest compensated.
+-Revenue: $1.18M
 
-7️⃣ Leave Analysis: High leave counts in Packaging and Production suggest potential job stress or dissatisfaction.
+-Gross Margin: $496.5K
+
+3️⃣ Top Supplier
+
+-Two Brothers Mill leads in revenue ($5.12M) but has a low gross margin % (37.2%), suggesting potential cost inefficiencies.
+
+-Kappas Drinks maintains the highest margin % (56.4%) despite lower revenue, indicating stronger pricing or cost control.
 
 
+4️⃣ Sales Channel Contribution
+
+-Retail dominates across all categories:
+
+-Drinks: $3.3M
+
+-Food: $0.6M
+
+-Online sales lag significantly and represent a major opportunity for growth.
 
 ## RECOMMENDATION 
 1️⃣Address Salary Discrepancies: Given the discrepancies in salaries for positions like Production, Research Scientists,and Marketing Managers, it is crucial to perform a salary audit to ensure fairness and equity across similar roles. This could help improve employee morale and retention.
