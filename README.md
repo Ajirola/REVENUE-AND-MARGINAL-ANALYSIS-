@@ -37,15 +37,15 @@ Key performance metrics are visualized with clarity, helping sales managers, fin
 To monitor and analyze the revenue performance, gross margin, and gross margin percentage across different suppliers and sales teams, enabling data-driven decisions that enhance profitability and sales efficiency.
 
 ## KEY AREAS ANALYZED
-1️⃣ Operational Revenue – Total revenue performance with monthly trends
+1️⃣ **Operational Revenue** – Total revenue performance with monthly trends
 
-2️⃣ Gross Margin – Monthly and cumulative gross profit to assess cost efficiency
+2️⃣ **Gross Margin** – Monthly and cumulative gross profit to assess cost efficiency
 
-3️⃣ Gross Margin % – Profitability ratio trend over the year
+3️⃣ **Gross Margin %** – Profitability ratio trend over the year
 
-4️⃣ Supplier Performance – Comparison of revenue and margin contributions by suppliers
+4️⃣ **Supplier Performance** – Comparison of revenue and margin contributions by suppliers
 
-5️⃣ Team & Category Revenue – Revenue contribution by sales team across Retail, Wholesale, and Online channels, broken down by product categories (Food, Drinks, Sweets)
+5️⃣ **Team & Category Revenue** – Revenue contribution by sales team across Retail, Wholesale, and Online channels, broken down by product categories (Food, Drinks, Sweets)
 
 ## TOOLS USED:
 
@@ -53,51 +53,51 @@ Excel: For data cleaning.
 
 Power BI: For visualization and dashboard creation.
 
-## DASHBOARD 
+## DASHBOARD PREVIEW 
 
 ![Revenue Dashboard](Screenshot_20250512-075443.jpg)
 
 ## INSIGHTS GAINED
-1️⃣ Overall Performance
+### 1️⃣ Overall Performance
 
--Total Operational Revenue: $9.68M
+**-Total Operational Revenue:** $9.68M
 
--Gross Margin: $4.01M
+**-Gross Margin:** $4.01M
 
--Gross Margin %: 41.5%
+**-Gross Margin %:** 41.5%
 
-2️⃣ Top Performing Month
+### 2️⃣ Top Performing Month
 
--November recorded the best performance:
+**-November recorded the best performance:**
 
--Revenue: $1.18M
+**-Revenue:** $1.18M
 
--Gross Margin: $496.5K
+**-Gross Margin:** $496.5K
 
-3️⃣ Top Supplier
+### 3️⃣ Top Supplier
 
--Two Brothers Mill leads in revenue ($5.12M) but has a low gross margin % (37.2%), suggesting potential cost inefficiencies.
+**-Two Brothers Mill leads in revenue ($5.12M) but has a low gross margin % (37.2%), suggesting potential cost inefficiencies.**
 
--Kappas Drinks maintains the highest margin % (56.4%) despite lower revenue, indicating stronger pricing or cost control.
+**-Kappas Drinks maintains the highest margin % (56.4%) despite lower revenue, indicating stronger pricing or cost control.**
 
 
-4️⃣ Sales Channel Contribution
+### 4️⃣ Sales Channel Contribution
 
--Retail dominates across all categories:
+**-Retail dominates across all categories:**
 
--Drinks: $3.3M
+**-Drinks:** $3.3M
 
--Food: $0.6M
+**-Food:** $0.6M
 
--Online sales lag significantly and represent a major opportunity for growth.
+**-Online sales** lag significantly and represent a major opportunity for growth.
 
 ## RECOMMENDATION 
-1️⃣ Improve Margin Management for Top Suppliers: Engage with Two Brothers Mill to explore cost optimization or pricing strategies to improve profitability.
+1️⃣ **Improve Margin Management for Top Suppliers:** Engage with Two Brothers Mill to explore cost optimization or pricing strategies to improve profitability.
 
-2️⃣ Scale High-Margin Suppliers: Increase focus on suppliers like Kappas Drinks for their better return on sales.
+2️⃣ **Scale High-Margin Suppliers:** Increase focus on suppliers like Kappas Drinks for their better return on sales.
 
-3️⃣Channel Strategy Optimization: Strengthen the Online channel, especially for high-performing categories like Drinks.
+3️⃣ **Channel Strategy Optimization:** Strengthen the Online channel, especially for high-performing categories like Drinks.
 
-4️⃣ Focus on High-Performing Months: Replicate successful strategies from November to maintain performance consistency.
+4️⃣ **Focus on High-Performing Months:** Replicate successful strategies from November to maintain performance consistency.
 
-5️⃣Team-Level Strategy: Analyze and share best practices from high-performing Retail teams across other segments.
+5️⃣ **Team-Level Strategy:** Analyze and share best practices from high-performing Retail teams across other segments.
