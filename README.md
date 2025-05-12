@@ -1,4 +1,4 @@
-# REVENUE AND MARGIN PERFORMANCE DASHBOARD FOR SUPPLIER AND TEAM ANALYSIS 
+## REVENUE AND MARGIN PERFORMANCE DASHBOARD FOR SUPPLIER AND TEAM ANALYSIS 
 
 ## TABLE OF CONTENTS 
  [Overview]()
@@ -55,7 +55,7 @@ Power BI: For visualization and dashboard creation.
 
 ## DASHBOARD PREVIEW 
 
-![Revenue Dashboard](Screenshot_20250512-075443.jpg)
+![Revenue Dashboard](Screenshot_20250512-235307.jpg)
 
 ## INSIGHTS GAINED
 ### 1️⃣ Overall Performance
