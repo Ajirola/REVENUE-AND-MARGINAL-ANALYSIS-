@@ -1,5 +1,4 @@
-# REVENUE AND MARGIN PERFORMANCE DASHBOARD FOR SUPPLIER 
-AND TEAM ANALYSIS 
+# REVENUE AND MARGIN PERFORMANCE DASHBOARD FOR SUPPLIER AND TEAM ANALYSIS 
 
 ## TABLE OF CONTENTS 
  [Overview]()
@@ -14,26 +13,27 @@ AND TEAM ANALYSIS
  
  [Insights]() 
  
- [Recommendation]()
+ [Recommendation]() 
 
- ## DESCRIPTION 
- This project leverages Power BI to analyze HR data, providing insights into employee demographics, salary structures, and leave balances.
- 
 ## OVERVIEW 
 This Power BI dashboard provides a strategic overview of operational revenue, gross margin, and profitability trends across suppliers and sales teams. Designed to support performance reviews and sales optimization efforts, it enables quick identification of inefficiencies, profit gaps, and growth opportunities across sales channels and product categories
 
+## DESCRIPTION
+Hhigh revenue does not always equal high profitability. This dashboard helps stakeholders move beyond top-line figures by delivering a layered analysis of gross margin and margin percentages across multiple dimensions—supplier, team, category, and channel.
+
+Key performance metrics are visualized with clarity, helping sales managers, financial analysts, and procurement teams:
+
+1️⃣ Evaluate which suppliers are driving or draining profit
+
+2️⃣ Understand seasonal patterns in sales and margin
+
+3️⃣ Identify the most and least effective sales teams and categories
+
+4️⃣ Guide strategic decisions based on actionable insights
+
 ## OBJECTIVE 
-1️⃣ Determine the headcount for each job role.
+To monitor and analyze the revenue performance, gross margin, and gross margin percentage across different suppliers and sales teams, enabling data-driven decisions that enhance profitability and sales efficiency.
 
-2️⃣ Analyze the gender distribution among staff.
-
-3️⃣ Assess salary discrepancies across various positions.
-
-4️⃣ Identify the highest earners in each role.
-
-5️⃣ Examine the relationship between qualifications and salaries.
-
-6️⃣ Conduct an analysis of leave balances.
 
 ## TOOLS USED:
 
