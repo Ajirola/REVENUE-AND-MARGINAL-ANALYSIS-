@@ -101,3 +101,7 @@ Power BI: For visualization and dashboard creation.
 4️⃣ **Focus on High-Performing Months:** Replicate successful strategies from November to maintain performance consistency.
 
 5️⃣ **Team-Level Strategy:** Analyze and share best practices from high-performing Retail teams across other segments.
+
+## Contact
+Created by [Ajirola Amudat]  
+For inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ajirola)
