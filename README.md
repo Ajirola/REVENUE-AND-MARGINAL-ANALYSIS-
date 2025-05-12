@@ -54,7 +54,7 @@ Excel: For data cleaning.
 Power BI: For visualization and dashboard creation.
 
 ## DASHBOARD 
-![REVENUE DASHBOARD](REVENUEDASHBOARD_1.png)
+![Revenue Dashboard](images/Revenue_dashboard_1.png)
 
 
 ## INSIGHTS GAINED
