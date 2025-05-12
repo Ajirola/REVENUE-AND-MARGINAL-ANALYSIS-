@@ -85,7 +85,7 @@ Power BI: For visualization and dashboard creation.
 
 **-Retail dominates across all categories:**
 
-**-Drinks:** $3.3M
+**-Drinks:** $3.9M
 
 **-Food:** $0.6M
 
