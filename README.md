@@ -55,7 +55,7 @@ Power BI: For visualization and dashboard creation.
 
 ## DASHBOARD PREVIEW 
 
-![Revenue Dashboard](Screenshot_20250512-235307.jpg)
+![Revenue Dashboard](Screenshot_20250512_235307.jpg)
 
 ## INSIGHTS GAINED
 ### 1️⃣ Overall Performance
