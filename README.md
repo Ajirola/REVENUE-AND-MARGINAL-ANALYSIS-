@@ -3,9 +3,9 @@
 ## TABLE OF CONTENTS 
  [Overview]()
 
- [Description]() 
-
  [Problem Statement]() 
+
+ [Description]() 
  
  [Objective]() 
   
@@ -20,7 +20,11 @@
  [Recommendation]() 
 
 ## OVERVIEW 
-This Power BI dashboard provides a strategic overview of operational revenue, gross margin, and profitability trends across suppliers and sales teams. Designed to support performance reviews and sales optimization efforts, it enables quick identification of inefficiencies, profit gaps, and growth opportunities across sales channels and product categories
+This Power BI dashboard provides a strategic overview of operational revenue, gross margin, and profitability trends across suppliers and sales teams. Designed to support performance reviews and sales optimization efforts, it enables quick identification of inefficiencies, profit gaps, and growth opportunities across sales channels and product categories.
+
+## PROBLEM STATEMENT 
+There is insufficient visibility into how revenue and gross margin vary by supplier and sales team, resulting in missed opportunities to optimize sales strategies and enhance overall profitability.
+
 
 ## DESCRIPTION
 High revenue does not always equal high profitability. This dashboard helps stakeholders move beyond top-line figures by delivering a layered analysis of gross margin and margin percentages across multiple dimensions—supplier, team, category, and channel.
@@ -35,8 +39,6 @@ Key performance metrics are visualized with clarity, helping sales managers, fin
 
 4️⃣ Guide strategic decisions based on actionable insights
 
-## PROBLEM STATEMENT 
-There is insufficient visibility into how revenue and gross margin vary by supplier and sales team, resulting in missed opportunities to optimize sales strategies and enhance overall profitability.
 
 ## OBJECTIVE 
 To monitor and analyze the revenue performance, gross margin, and gross margin percentage across different suppliers and sales teams, enabling data-driven decisions that enhance profitability and sales efficiency.
