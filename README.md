@@ -4,6 +4,8 @@
  [Overview]()
 
  [Description]() 
+
+ [Problem Statement]() 
  
  [Objective]() 
   
@@ -33,6 +35,9 @@ Key performance metrics are visualized with clarity, helping sales managers, fin
 
 4️⃣ Guide strategic decisions based on actionable insights
 
+## PROBLEM STATEMENT 
+There is insufficient visibility into how revenue and gross margin vary by supplier and sales team, resulting in missed opportunities to optimize sales strategies and enhance overall profitability.
+
 ## OBJECTIVE 
 To monitor and analyze the revenue performance, gross margin, and gross margin percentage across different suppliers and sales teams, enabling data-driven decisions that enhance profitability and sales efficiency.
 
@@ -51,7 +56,7 @@ To monitor and analyze the revenue performance, gross margin, and gross margin p
 
 Excel: For data cleaning.
 
-Power BI: For visualization and dashboard creation.
+Power BI: For Data modelling, visualization and dashboard creation.
 
 ## DASHBOARD PREVIEW 
 
